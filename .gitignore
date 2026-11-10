@@ -1,0 +1,17 @@
+# Java compiled files
+*.class
+
+# C++ compiled files
+*.o
+*.out
+*.exe
+a.out
+
+# Editor and OS junk
+.vscode/
+.idea/
+.DS
+
+# Write and read files for in IDS or text editors
+in.txt
+output.txt
