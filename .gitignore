@@ -16,14 +16,14 @@ a.out
 in.txt
 output.txt
 
-# For Java IDE:
+# IntelliJ project files:
 # Default ignored files
 /shelf/
 /workspace.xml
 # Markdown personal settings
 /markdown.xml
-
-OOP.iml# Default ignored files
+*.iml
+# Default ignored files
 /shelf/
 /workspace.xml
 # Markdown personal settings
