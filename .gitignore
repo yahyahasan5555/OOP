@@ -15,3 +15,17 @@ a.out
 # Write and read files for in IDS or text editors
 in.txt
 output.txt
+
+# For Java IDE:
+# Default ignored files
+/shelf/
+/workspace.xml
+# Markdown personal settings
+/markdown.xml
+
+OOP.iml# Default ignored files
+/shelf/
+/workspace.xml
+# Markdown personal settings
+/markdown.xml
+
